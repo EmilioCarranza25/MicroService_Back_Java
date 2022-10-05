@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pruebaback.pruebaback.PruebabackApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.789 s - in com.pruebaback.pruebaback.PruebabackApplicationTests
